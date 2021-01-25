@@ -10,12 +10,11 @@
   - 源码压缩包下载：告诉我们可以扩充源码，而且没有在github开源：https://www.cs.usfca.edu/~galles/visualization/visualization1.5.tar.gz
 
   - 帮助文档：告诉我们如何阅读并且扩充源码，来定制自己的算法：https://www.cs.usfca.edu/~galles/visualization/source.html
-
 - 后期考虑：原生的纯js向vue演进，可能需要王疆寒的帮助或者自己学一些
 - 算法实现后：我会将所有的js源码打包生成一个后端项目，用restful风格来实现
-
 - 关于操作系统：学一个算法写一个算法，不要搞混了；如果算法之间有联系，可以一起写
 - 项目最后部署在vercel和学校服务器上，域名为 https://os.2084team.com
+- 资源先放在一起不要拆分，最后我会将其拆分用cdn加速
 - 统一化的平台建设，最终设计要加一些后端，但是不会对数据库进行读写，平台的鉴权系统和三组用一个，由后端群组共同搭建
 
 ## 开发规则：
