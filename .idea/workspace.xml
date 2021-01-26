@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4cdc3b7-c771-4e2d-962e-d3c198e7a4b5" name="Default Changelist" comment="my branch init .">
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/AVL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/Algorithm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/BFS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/BPlusTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/BST.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/BTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/BinomialQueue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/BucketSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/ChangingCoordinate2D.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/ChangingCoordinate3D.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/ClosedHash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/ClosedHash2.JS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/ClosedHashBucket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/ComparisonSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/ConnectedComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/CountingSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/DFS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/DPChange.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/DPFib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/DPLCS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/DPMatrixMultiply.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/DijkstraPrim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/DisjointSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/EventTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/FibonacciHeap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/Floyd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/Graph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/Hash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/Heap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/HeapSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/Kruskal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/LeftistHeap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/OpenHash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/QueueArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/QueueLL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/RadixSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/RadixTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/RecFact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/RecQueens.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/RecReverse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/Recursive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/RedBlack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/RotateScale2D.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/RotateScale3D.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/RotateTranslate2D.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/SimpleStack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/SkewHeap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/SplayTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/StackArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/StackLL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/TST.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/TestAlgorithmOld.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/TopoSortDFS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/TopoSortIndegree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/Trie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgorithmLibrary-Base/TrinarySearchTree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimationLibrary-Base/AnimatedBTreeNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimationLibrary-Base/AnimatedCircle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimationLibrary-Base/AnimatedLabel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimationLibrary-Base/AnimatedLinkedList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimationLibrary-Base/AnimatedObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimationLibrary-Base/AnimatedRectangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimationLibrary-Base/AnimationMain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimationLibrary-Base/CustomEvents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimationLibrary-Base/HighlightCircle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimationLibrary-Base/Line.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimationLibrary-Base/ObjectManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnimationLibrary-Base/UndoFunctions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/AVLtree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/BFS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/BPlusTree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/BST.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/BTree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/BinomialQueue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/BucketSort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/ChangingCoordinates2D.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/ChangingCoordinates3D.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/ClosedHash.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/ClosedHashBucket.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/ComparisonSort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/ConnectedComponent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/CountingSort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/DFS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/DPChange.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/DPFib.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/DPLCS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/Dijkstra.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/DisjointSets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/FibonacciHeap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/Floyd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/Heap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/HeapSort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/Kruskal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/LeftistHeap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/OpenHash.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/Prim.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/QueueArray.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/QueueLL.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/RadixSort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/RadixTree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/RecFact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/RecQueens.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/RecReverse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/RedBlack.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/RotateScale2D.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/RotateScale3D.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/RotateTranslate2D.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/Search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/SimpleStack.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/SkewHeap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/SplayTree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/StackArray.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/StackLL.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/TST.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/TopoSortDFS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/TopoSortIndegree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/Trie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/slideTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HtmlView-Base/source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThirdParty-Base/jquery-1.5.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThirdParty-Base/jquery-ui-1.8.11.custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThirdParty-Base/jquery-ui-1.8.11.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThirdParty-Base/visualPages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThirdParty-Base/visualizationPageStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/.idea/Javascript-Algorithm-visualization-release.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/AVL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/Algorithm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/BFS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/BPlusTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/BST.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/BTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/BinomialQueue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/BucketSort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/ChangingCoordinate2D.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/ChangingCoordinate3D.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/ClosedHash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/ClosedHash2.JS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/ClosedHashBucket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/ComparisonSort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/ConnectedComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/CountingSort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/DFS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/DPChange.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/DPFib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/DPLCS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/DPMatrixMultiply.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/DijkstraPrim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/DisjointSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/EventTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/FibonacciHeap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/Floyd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/Graph.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/Hash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/Heap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/HeapSort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/Kruskal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/LeftistHeap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/MyAlgorithm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/OpenHash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/QueueArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/QueueLL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/RadixSort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/RadixTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/RecFact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/RecQueens.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/RecReverse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/Recursive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/RedBlack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/RotateScale2D.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/RotateScale3D.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/RotateTranslate2D.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/Search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/SimpleStack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/SkewHeap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/SplayTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/StackArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/StackLL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/TST.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/TestAlgorithmOld.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/TopoSortDFS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/TopoSortIndegree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/Trie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AlgorithmLibrary/TrinarySearchTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/Algorithms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AnimationLibrary/AnimatedBTreeNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AnimationLibrary/AnimatedCircle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AnimationLibrary/AnimatedLabel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AnimationLibrary/AnimatedLinkedList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AnimationLibrary/AnimatedObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AnimationLibrary/AnimatedRectangle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AnimationLibrary/AnimationMain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AnimationLibrary/CustomEvents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AnimationLibrary/HighlightCircle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AnimationLibrary/Line.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AnimationLibrary/ObjectManager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/AnimationLibrary/UndoFunctions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/AVLtree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/BFS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/BPlusTree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/BST.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/BTree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/BinomialQueue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/BucketSort.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/ChangingCoordinates2D.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/ChangingCoordinates3D.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/ClosedHash.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/ClosedHashBucket.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/ComparisonSort.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/ConnectedComponent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/CountingSort.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/DFS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/DPChange.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/DPFib.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/DPLCS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/Dijkstra.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/DisjointSets.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/FibonacciHeap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/Floyd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/Heap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/HeapSort.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/Kruskal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/LeftistHeap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/OpenHash.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/Prim.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/QueueArray.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/QueueLL.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/RadixSort.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/RadixTree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/RecFact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/RecQueens.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/RecReverse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/RedBlack.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/RotateScale2D.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/RotateScale3D.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/RotateTranslate2D.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/Search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/SimpleStack.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/SkewHeap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/SplayTree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/StackArray.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/StackLL.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/TST.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/TopoSortDFS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/TopoSortIndegree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/Trie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/slideTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/HtmlView/source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/ThirdParty/jquery-1.5.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/ThirdParty/jquery-ui-1.8.11.custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/ThirdParty/jquery-ui-1.8.11.custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/ThirdParty/visualPages.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/ThirdParty/visualizationPageStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript-Algorithm-visualization-release/template.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nbKHXfxtAAc7t2qIPFDtDcEvDR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\2084team\os-visualization\Alan-html-view" />
+      <recent name="D:\Code\2084team\os-visualization\Alan-js-Library" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4cdc3b7-c771-4e2d-962e-d3c198e7a4b5" name="Default Changelist" comment="" />
+      <created>1611653264584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611653264584</updated>
+      <workItem from="1611653266715" duration="1442000" />
+      <workItem from="1611654851577" duration="32000" />
+    </task>
+    <task id="LOCAL-00001" summary="my branch init .">
+      <created>1611654514025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611654514025</updated>
+    </task>
+    <task id="LOCAL-00002" summary="my branch init .">
+      <created>1611654622284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611654622284</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="my branch init ." />
+    <option name="LAST_COMMIT_MESSAGE" value="my branch init ." />
+  </component>
+</project>
